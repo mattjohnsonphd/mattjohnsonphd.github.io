@@ -1,4 +1,4 @@
-## Home
+## Matt Johnson
 UNDER DEVELOPMENT - try [MattJohnsonPhD.com](https://www.mattjohnsonphd.com) for (relatively) recent info
 
 I am a research scientist at Amazon on the Topline Forecasting Team in Seattle, Washington. My personal research focuses on Bayesian methods for predictive forecast combination (Bayesian Predictive Synthesis), and other interests include time series, stochastic processes, dynamic models, forecasting and Bayesian statistics.
