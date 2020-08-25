@@ -1,6 +1,6 @@
 ## Matt Johnson
 
-[under development - try mattjohnsonphd.com for (relatively) recent info]
+UNDER DEVELOPMENT - try [MattJohnsonPhD.com](https://mattjohnsonphd.com) for (relatively) recent info
 
 I am a research scientist at Amazon on the Topline Forecasting Team in Seattle, Washington. My personal research focuses on Bayesian methods for predictive forecast combination (Bayesian Predictive Synthesis), and other interests include time series, stochastic processes, dynamic models, forecasting and Bayesian statistics.
 
@@ -8,4 +8,4 @@ I earned my Ph.D. from Duke University's Department of Statistical Science, unde
 
 Download my full CV here, or if you're busy, you may prefer a one-page resume.
 
-Email me at mcjohnson946 [at] gmail [dot] com or find me on LinkedIn.
+Email me at mcjohnson946 [at] gmail [dot] com or find me on [LinkedIn](https://linkedin.com/in/mattjohnsonphd).
