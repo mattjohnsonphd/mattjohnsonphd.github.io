@@ -1,5 +1,3 @@
-layout: default
-title: "Matt Johnson"
 ## Matt Johnson
 I am a Senior Research Scientist at Amazon on the Topline Forecasting Team in Bellevue, Washington. My personal research focuses on Bayesian methods for predictive forecast combination (Bayesian Predictive Synthesis), and other interests include time series, stochastic processes, dynamic models, forecasting and Bayesian statistics.
 
